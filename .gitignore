@@ -227,6 +227,30 @@ api-keys.json
 tokens.json
 oauth-tokens.json
 
+# OpenAI and AI service keys
+*openai*key*
+*chatgpt*key*
+*gpt*key*
+sk-*
+**/openai/
+**/*openai*
+
+# Google API keys and services
+*google*api*key*
+*google*services*
+*AIzaSy*
+*googleapis*
+AIzaSyD-a-VEFBK8S18SyWBQGe2ncEfYaNO3Aco
+
+# Build and cache directories that may contain keys
+**/build/
+**/.cxx/
+**/node_modules/
+**/.gradle/
+**/intermediates/
+**/generated/
+**/outputs/
+
 # Cloud provider configs
 aws-credentials
 gcp-credentials.json
@@ -379,6 +403,20 @@ docs/logging/
 *.ipa
 ios/
 android/
+
+# Android build files with embedded API keys
+**/android/app/build/
+**/android/build/
+**/android/app/build/generated/
+**/android/app/build/intermediates/
+**/android/app/build/outputs/
+android/app/build/
+android/build/
+android/gradle/
+android/.gradle/
+**/values.xml
+**/google-services.json
+**/GoogleService-Info.plist
 
 # React Native
 .expo/
