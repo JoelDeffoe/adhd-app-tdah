@@ -286,6 +286,7 @@ SECURITY_STATUS.md
 security-*.md
 audit-*.md
 vulnerability-*.md
+git-push-instructions.md
 
 # AI-specific test files only (keep legitimate tests)
 **/*ai-test*
