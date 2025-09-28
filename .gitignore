@@ -286,7 +286,7 @@ SECURITY_STATUS.md
 security-*.md
 audit-*.md
 vulnerability-*.md
-git-push-instructions.md
+git-push-ins
 
 # AI-specific test files only (keep legitimate tests)
 **/*ai-test*
@@ -354,13 +354,6 @@ docs/FOCUS_*.md
 docs/CRITICAL_*.md
 docs/LOG_*.md
 docs/logging/
-
-# Frontend development docs
-frontend/FocusMate/docs/troubleshooting/
-frontend/FocusMate/docs/implementation-summaries/
-frontend/FocusMate/docs/analysis/
-frontend/FocusMate/docs/ui-ux/
-frontend/FocusMate/docs/guides/
 
 # Backup and temporary files
 *.bak
