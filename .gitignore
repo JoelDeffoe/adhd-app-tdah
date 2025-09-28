@@ -417,6 +417,7 @@ android/.gradle/
 **/values.xml
 **/google-services.json
 **/GoogleService-Info.plist
+*docs/
 
 # React Native
 .expo/
